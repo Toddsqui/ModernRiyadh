@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+body{
+  background-color:  black;
+  }
+
+.lobster-font {
+  font-family: Lobster;
+  color: #009bd2;
+  font-size:86px;
+}
+#main-picture {
+    width:100%;
+    }
+
+.center-image {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image-container {
+  background-color: #cceffe;
+  margin:0px -15px 0px -15px;
+}
+.text-color{
+  color:#cceffe;
+}
+#section1 h1 , #section2 h1, #section3 h1{
+  color: #009bd2;
+  font-family: Roboto;
+}
+.main-content {
+  color:white;
+  background-color:black;
+
+}
+.section-text {
+  font-family:Roboto;
+}
+#read-more {
+  margin-top: 75px;
+  font-family: roboto;
+}
